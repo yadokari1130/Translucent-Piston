@@ -1,9 +1,10 @@
 {
         "homepage": "https://forum.civa.jp/viewtopic.php?f=3&t=973",
         "promos": {
-                "1.19.2-latest": "1.0"
+                "1.19.2-latest": "1.1"
         },
         "1.19.2": {
-        	"1.0": "MODをリリース"
+                "1.1": "太陽光が減衰しないように変更、アップデート通知の翻訳が行われない問題を修正\nModified to prevent sunlight attenuation. Fixed problem with update notifications not being translated.",
+        	"1.0": "MODをリリース\nMOD is released."
         }
 }
